@@ -1,3 +1,1 @@
- def greeting(phrase)
-   phrase = "Hello World"
-end
+greeting = "Hello World"
